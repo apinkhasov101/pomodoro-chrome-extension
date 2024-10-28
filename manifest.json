@@ -4,8 +4,8 @@
   "version": "1.0",
   "description": "Extension that allows user to select an amount of time (in minutes) to countdown from.",
   "action": {
-    "default_popup": "hello.html",
-    "default_icon": "hello_extensions.png"
+    "default_popup": "index.html",
+    "default_icon": "tomato.png"
   }
 }
 
