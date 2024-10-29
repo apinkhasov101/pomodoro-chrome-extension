@@ -1,0 +1,14 @@
+body {
+    background-image: url('tomatoes-73913_640.jpg');
+    background-size: cover;
+    background-position: center;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    font-family: fantasy;
+    align-items: center;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;;
+}
+

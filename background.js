@@ -103,12 +103,11 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       }
 
-
-//* EXTENSIONS:
-// Having the chrome extension run, even after the chrome extension window is closed 
-// Styling to look cool
-// Display timer to show the countdown value
-// Pause button
+      //* EXTENSIONS:
+      // Having the chrome extension run, even after the chrome extension window is closed
+      // Styling to look cool
+      // Display timer to show the countdown value
+      // Pause button
 
       //  -implement countdown 25->24->23->
       //    initialize variable to store 25 minutes
